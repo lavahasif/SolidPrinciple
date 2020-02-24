@@ -1,0 +1,13 @@
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.0\SolidPrinciple.exe
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.0\SolidPrinciple.deps.json
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.0\SolidPrinciple.runtimeconfig.json
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.0\SolidPrinciple.runtimeconfig.dev.json
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.0\SolidPrinciple.dll
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\bin\Debug\netcoreapp3.0\SolidPrinciple.pdb
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.csprojAssemblyReference.cache
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.AssemblyInfoInputs.cache
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.AssemblyInfo.cs
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.dll
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.pdb
+C:\Users\Hasif\RiderProjects\SolidPrinciple\SolidPrinciple\obj\Debug\netcoreapp3.0\SolidPrinciple.genruntimeconfig.cache
